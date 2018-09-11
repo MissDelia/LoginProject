@@ -44,7 +44,7 @@ export default class App extends Component {
 
   _handleClick() {
     Alert.alert(this.state.username);
-    // Alert.alert(this.state.password);
+    Alert.alert(this.state.password);
   }
 }
 
