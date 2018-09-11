@@ -24,6 +24,6 @@ const styles = StyleSheet.create({
       backgroundColor: '#046ada',
       alignItems:'center',
       justifyContent:'center',
-      borderRadius: 3
+      borderRadius: 5
     },
 });
